@@ -1,6 +1,6 @@
 {
     "subscription_id": "10eca58d-d2fb-4fcc-9e4b-bc6312fa39ee",
-    "resource_group": "MlOps-Test-RG",
-    "workspace_name": "MlOps-Test-Workspace",
+    "resource_group": "v-dmitrija-rg",
+    "workspace_name": "v-dmitrija-workspace",
     "location": "Azure ML Location"
 }
